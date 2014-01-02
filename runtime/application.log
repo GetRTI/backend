@@ -1,0 +1,10 @@
+2014/01/02 21:36:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "list.".' in /home/srvmdk/public_html/Yii/web/CController.php:483
+Stack trace:
+#0 /home/srvmdk/public_html/Yii/web/CController.php(270): CController->missingAction('list.')
+#1 /home/srvmdk/public_html/Yii/web/CWebApplication.php(282): CController->run('list.')
+#2 /home/srvmdk/public_html/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/list.')
+#3 /home/srvmdk/public_html/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /home/srvmdk/public_html/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/~srvmdk/getrti/www/index.php/api/list.
+---
