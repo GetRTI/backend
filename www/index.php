@@ -1,7 +1,7 @@
 <?php
 
 // change the following paths if necessary
-$yii=dirname(__FILE__).'/../../Yii/yii.php';
+$yii=dirname(__FILE__).'/../Yii/yii.php';
 $config=dirname(__FILE__).'/../protected/config/main.php';
 
 function d2l($what,$where='fb.somewhere'){
