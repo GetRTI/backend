@@ -2,55 +2,42 @@
 
 class ApiController extends Controller
 {
-    /*
-     * api return format
-     */
-    
     private $format = 'json';
 
     public function actionIndex()
     {
-        //$this->render('index');
+        $this->render('index');
+    }
+    
+    public function actionList()
+    {
+        $this->_sendResponse(200, 'List action called');
+    }
+    
+    public function actionView()
+    {
+        $this->_sendResponse(200, 'View action called');
+    }
+    
+    public function actionCreate()
+    {
+        $this->_sendResponse(200, 'Create action called');
+    }
+    
+    public function actionUpdate()
+    {
+        $this->_sendResponse(200, 'Update action called');
+    }
+    
+    public function actionDelete()
+    {
+        $this->_sendResponse(200, 'Delete action called');
     }
     
     public function filters()
     {
         // return the filter configuration for this controller, e.g.:
         return array();
-    }
-    
-    public function actionTest()
-    {
-        echo 'Hello, World';
-        /*
-        switch ($_GET['message']){
-            case 'test':
-                $message = "Hello, world!";
-                $this->_sendResponse(200, CJSON::encode($message));
-        }
-        */
-    }
-    
-    public function actionList()
-    {
-        echo 'Hello, World';
-    }
-    
-    public function actionView()
-    {
-        echo "abc";
-    }
-    
-    public function actionCreate()
-    {
-    }
-    
-    public function actionUpdate()
-    {
-    }
-    
-    public function actionDelete()
-    {
     }
     
     private function _sendResponse($status = 200, $body = '', $content_type = 'text/html')
@@ -135,11 +122,4 @@ class ApiController extends Controller
         return (isset($codes[$status])) ? $codes[$status] : '';
     }
     
-    /*
-    public function actions() {
-        return array(
-            'test'=>'application.controllers.api.TestAction',
-        );
-    }
-    */
 }

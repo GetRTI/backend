@@ -8,3 +8,73 @@ Stack trace:
 #5 {main}
 REQUEST_URI=/~srvmdk/getrti/www/index.php/api/list.
 ---
+2014/01/03 15:09:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "users".' in /var/www/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/Yii/web/CController.php(270): CController->missingAction('users')
+#1 /var/www/Yii/web/CWebApplication.php(282): CController->run('users')
+#2 /var/www/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/users')
+#3 /var/www/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/api/users
+---
+2014/01/03 15:10:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "users".' in /var/www/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/Yii/web/CController.php(270): CController->missingAction('users')
+#1 /var/www/Yii/web/CWebApplication.php(282): CController->run('users')
+#2 /var/www/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/users')
+#3 /var/www/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/api/users
+---
+2014/01/03 15:12:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "users".' in /var/www/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/Yii/web/CController.php(270): CController->missingAction('users')
+#1 /var/www/Yii/web/CWebApplication.php(282): CController->run('users')
+#2 /var/www/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/users')
+#3 /var/www/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/api/users
+---
+2014/01/03 15:16:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "users".' in /var/www/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/Yii/web/CController.php(270): CController->missingAction('users')
+#1 /var/www/Yii/web/CWebApplication.php(282): CController->run('users')
+#2 /var/www/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/users')
+#3 /var/www/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/api/users
+---
+2014/01/03 15:17:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "users".' in /var/www/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/Yii/web/CController.php(270): CController->missingAction('users')
+#1 /var/www/Yii/web/CWebApplication.php(282): CController->run('users')
+#2 /var/www/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/users')
+#3 /var/www/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/api/users
+---
+2014/01/03 15:24:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "users".' in /var/www/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/Yii/web/CController.php(270): CController->missingAction('users')
+#1 /var/www/Yii/web/CWebApplication.php(282): CController->run('users')
+#2 /var/www/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/users')
+#3 /var/www/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/api/users
+---
+2014/01/03 15:24:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "users".' in /var/www/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/Yii/web/CController.php(270): CController->missingAction('users')
+#1 /var/www/Yii/web/CWebApplication.php(282): CController->run('users')
+#2 /var/www/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/users')
+#3 /var/www/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/api/users
+---
