@@ -10,4 +10,3 @@ Attributions
 [3] Yii Framework
 [4] Mysql
 [5] Tesseract
-
