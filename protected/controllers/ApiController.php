@@ -21,7 +21,12 @@ class ApiController extends Controller
     
     public function actionCreate()
     {
-        $this->_sendResponse(200, 'Create action called');
+        switch ($_GET['model']){
+            case 'files':
+                // check the file is pdf or an image
+                $file = CUploadedFile::getInstance($_POST, 'file');
+                $this->_sendResponse(200, "hello");
+        }
     }
     
     public function actionUpdate()

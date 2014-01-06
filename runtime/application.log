@@ -98,3 +98,2008 @@ Stack trace:
 #5 {main}
 REQUEST_URI=/index.php/api/users
 ---
+2014/01/06 15:56:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:01 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:01 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 15:56:01 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 15:56:01 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (53)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 15:56:01 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:02 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:02 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:02 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:02 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/getrti/Yii/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/getrti/www/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/01/06 15:56:02 [trace] [system.CModule] Loading "errorHandler" application component
+2014/01/06 15:56:02 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 15:56:02 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 15:56:02 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 15:56:02 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:04 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:11 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:14 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:31 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:35 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:56:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:07 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:17 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:18 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:27 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:29 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:39 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:40 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:45 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:55 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:55 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:55 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:55 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:55 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:55 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:55 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:55 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:56 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:56 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:56 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:57:59 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:19 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:26 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:29 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:30 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:40 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:41 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:53 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:55 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:59 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:59 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:59 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:59 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:59 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:59 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:59 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:59 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:58:59 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:30 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:30 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:30 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:30 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:30 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 15:59:30 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 15:59:30 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (53)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 15:59:30 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.web.filters.CFilterChain] Running filter FilesController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.db.ar.CActiveRecord] Files.count()
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `files` `t`
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.db.ar.CActiveRecord] Files.findAll()
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `files` `t` LIMIT 10
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:34 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/files/index.php (20)
+in /var/www/getrti/protected/controllers/FilesController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.web.filters.CFilterChain] Running filter FilesController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/site/login.php (23)
+in /var/www/getrti/protected/controllers/SiteController.php (98)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/site/login.php (30)
+in /var/www/getrti/protected/controllers/SiteController.php (98)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/site/login.php (52)
+in /var/www/getrti/protected/controllers/SiteController.php (98)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (98)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (98)
+2014/01/06 15:59:37 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/SiteController.php (98)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/models/LoginForm.php (71)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/models/LoginForm.php (71)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.web.filters.CFilterChain] Running filter FilesController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/FilesController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/FilesController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/protected/controllers/FilesController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/protected/controllers/FilesController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/files/_form.php (16)
+in /var/www/getrti/protected/views/files/create.php (18)
+in /var/www/getrti/protected/controllers/FilesController.php (79)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/files/_form.php (68)
+in /var/www/getrti/protected/views/files/create.php (18)
+in /var/www/getrti/protected/controllers/FilesController.php (79)
+2014/01/06 15:59:47 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (43)
+in /var/www/getrti/protected/views/layouts/column2.php (22)
+in /var/www/getrti/protected/controllers/FilesController.php (79)
+2014/01/06 15:59:57 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.web.filters.CFilterChain] Running filter FilesController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/FilesController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/FilesController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/protected/controllers/FilesController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/protected/controllers/FilesController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/controllers/FilesController.php (73)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 15:59:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/files/_form.php (16)
+in /var/www/getrti/protected/views/files/create.php (18)
+in /var/www/getrti/protected/controllers/FilesController.php (79)
+2014/01/06 15:59:57 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/files/_form.php (68)
+in /var/www/getrti/protected/views/files/create.php (18)
+in /var/www/getrti/protected/controllers/FilesController.php (79)
+2014/01/06 16:17:21 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:21 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:21 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:21 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:21 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:21 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:21 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:21 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:21 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:21 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:23 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:30 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:35 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:42 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:45 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:51 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW TABLES
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `file_to_tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `tags`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:56 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:17:59 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:04 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:17 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `files`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:24 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:31 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.base.CModule] Loading "gii" module
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `departments`
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 16:18:33 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:49 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:49 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:49 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:49 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:49 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 17:15:49 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 17:15:49 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (53)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 17:15:49 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:57 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:57 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:57 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/apitest/index.php (14)
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:57 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/apitest/index.php (21)
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:57 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/apitest/index.php (46)
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:15:57 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+2014/01/06 17:15:57 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+2014/01/06 17:15:57 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:17 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:17 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:17 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:17 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:17 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:17 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:17 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (43)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:17 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:19 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:19 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:19 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:19 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/apitest/index.php (14)
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:19 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/apitest/index.php (21)
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:19 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/apitest/index.php (46)
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:18:19 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+2014/01/06 17:18:19 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+2014/01/06 17:18:19 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/ApitestController.php (8)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:30:38 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:30:38 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 17:30:38 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:51:53 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:51:53 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:51:53 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:51:53 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:51:53 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 20:51:53 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 20:51:53 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (53)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/06 20:51:53 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:52:03 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:52:03 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:52:03 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:08 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:08 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:08 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/apitest/index.php (15)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:08 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/apitest/index.php (23)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:08 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/apitest/index.php (48)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:08 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+2014/01/06 20:54:08 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+2014/01/06 20:54:08 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:21 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:21 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:21 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:21 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/controllers/ApitestController.php (9)
+in /var/www/getrti/protected/controllers/ApitestController.php (9)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:54:21 [error] [exception.CException] exception 'CException' with message 'CWebApplication and its behaviors do not have a method or closure named "params".' in /var/www/getrti/Yii/base/CComponent.php:266
+Stack trace:
+#0 /var/www/getrti/protected/controllers/ApitestController.php(9): CComponent->__call('params', Array)
+#1 /var/www/getrti/protected/controllers/ApitestController.php(9): CWebApplication->params('siteUrl')
+#2 /var/www/getrti/Yii/web/actions/CInlineAction.php(49): ApitestController->actionIndex()
+#3 /var/www/getrti/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /var/www/getrti/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /var/www/getrti/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /var/www/getrti/Yii/web/CWebApplication.php(282): CController->run('')
+#7 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController('apitest')
+#8 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#9 /var/www/getrti/www/index.php(18): CApplication->run()
+#10 {main}
+REQUEST_URI=/index.php/apitest
+HTTP_REFERER=http://getrti/index.php/apitest
+---
+2014/01/06 20:54:21 [trace] [system.CModule] Loading "errorHandler" application component
+2014/01/06 20:56:49 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:49 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:49 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:49 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/apitest/index.php (15)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:49 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/apitest/index.php (23)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:49 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/apitest/index.php (48)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:49 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+2014/01/06 20:56:49 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+2014/01/06 20:56:49 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:58 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:58 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:58 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:58 [error] [php] Trying to get property of non-object (/var/www/getrti/protected/controllers/ApiController.php:28)
+Stack trace:
+#0 /var/www/getrti/Yii/web/CController.php(286): ApiController->runAction()
+#1 /var/www/getrti/Yii/web/CController.php(265): ApiController->runActionWithFilters()
+#2 /var/www/getrti/Yii/web/CWebApplication.php(282): ApiController->run()
+#3 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/getrti/www/index.php(18): CWebApplication->run()
+REQUEST_URI=/index.php/api/files
+in /var/www/getrti/protected/controllers/ApiController.php (28)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:58 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/getrti/protected/controllers/ApiController.php (28)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:58 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:58 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:58 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:58 [error] [php] file_get_contents(http://getrti/index.php/api/files): failed to open stream: HTTP request failed! HTTP/1.1 500 Internal Server Error
+ (/var/www/getrti/protected/controllers/ApitestController.php:18)
+Stack trace:
+#0 /var/www/getrti/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/getrti/Yii/web/CController.php(286): ApitestController->runAction()
+#2 /var/www/getrti/Yii/web/CController.php(265): ApitestController->runActionWithFilters()
+#3 /var/www/getrti/Yii/web/CWebApplication.php(282): ApitestController->run()
+#4 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#6 /var/www/getrti/www/index.php(18): CWebApplication->run()
+REQUEST_URI=/index.php/apitest
+in /var/www/getrti/protected/controllers/ApitestController.php (18)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:56:58 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/getrti/protected/controllers/ApitestController.php (18)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:57:43 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:57:43 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:57:43 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:57:43 [error] [php] Trying to get property of non-object (/var/www/getrti/protected/controllers/ApiController.php:28)
+Stack trace:
+#0 /var/www/getrti/Yii/web/CController.php(286): ApiController->runAction()
+#1 /var/www/getrti/Yii/web/CController.php(265): ApiController->runActionWithFilters()
+#2 /var/www/getrti/Yii/web/CWebApplication.php(282): ApiController->run()
+#3 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/getrti/www/index.php(18): CWebApplication->run()
+REQUEST_URI=/index.php/api/files
+in /var/www/getrti/protected/controllers/ApiController.php (28)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 20:57:43 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/getrti/protected/controllers/ApiController.php (28)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:11 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:11 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:11 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:11 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/apitest/index.php (15)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:11 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/apitest/index.php (23)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:11 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/apitest/index.php (48)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:11 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+2014/01/06 21:00:11 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+2014/01/06 21:00:11 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/apitest/index.php (15)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/apitest/index.php (23)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/apitest/index.php (48)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+2014/01/06 21:00:20 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/ApitestController.php (21)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:02:23 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:02:23 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:02:23 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:02:23 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/apitest/index.php (15)
+in /var/www/getrti/protected/controllers/ApitestController.php (24)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:02:23 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/apitest/index.php (23)
+in /var/www/getrti/protected/controllers/ApitestController.php (24)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:02:23 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/apitest/index.php (48)
+in /var/www/getrti/protected/controllers/ApitestController.php (24)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 21:02:23 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (24)
+2014/01/06 21:02:23 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (24)
+2014/01/06 21:02:23 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/ApitestController.php (24)
+in /var/www/getrti/www/index.php (18)

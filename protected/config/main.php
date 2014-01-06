@@ -21,15 +21,13 @@ return array(
 
 	'modules'=>array(
 		// uncomment the following to enable the Gii tool
-		/*
-		'gii'=>array(
+                'gii'=>array(
 			'class'=>'system.gii.GiiModule',
-			'password'=>'Enter Your Password Here',
+			'password'=>'gii',
 			// If removed, Gii defaults to localhost only. Edit carefully to taste.
 			'ipFilters'=>array('127.0.0.1','::1'),
 		),
-		*/
-	),
+            ),
 
 	// application components
 	'components'=>array(
@@ -40,8 +38,7 @@ return array(
 		// uncomment the following to enable URLs in path-format
 		'urlManager'=>array(
 			'urlFormat'=>'path',
-                        'showScriptName'=>false,
-			'rules'=>array(
+                        'rules'=>array(
                                 // REST patterns
                                 array('api/list', 'pattern'=>'api/<model:\w+>', 'verb'=>'GET'),
                                 array('api/view', 'pattern'=>'api/<model:\w+>/<id:\d+>', 'verb'=>'GET'),
@@ -54,19 +51,21 @@ return array(
 				'<controller:\w+>/<action:\w+>'=>'<controller>/<action>',
 			),
 		),
+                /*
 		'db'=>array(
 			'connectionString' => 'sqlite:'.dirname(__FILE__).'/../data/testdrive.db',
 		),
+                */
 		// uncomment the following to use a MySQL database
-		/*
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=testdrive',
+			'connectionString' => 'mysql:host=localhost;dbname=getrti',
 			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => '',
+			'username' => 'srvmdk',
+			'password' => 'mysqlpass',
 			'charset' => 'utf8',
+                        'enableParamLogging' => true,
+                        'enableProfiling' => true,
 		),
-		*/
 		'errorHandler'=>array(
 			// use 'site/error' action to display errors
 			'errorAction'=>'site/error',
@@ -76,14 +75,13 @@ return array(
 			'routes'=>array(
 				array(
 					'class'=>'CFileLogRoute',
-					'levels'=>'error, warning',
+					'levels'=>'error, warning, trace',
 				),
 				// uncomment the following to show log messages on web pages
-				/*
 				array(
 					'class'=>'CWebLogRoute',
+                                        'levels'=>'error, warning, info',
 				),
-				*/
 			),
 		),
 	),
@@ -93,5 +91,6 @@ return array(
 	'params'=>array(
 		// this is used in contact page
 		'adminEmail'=>'saurav@linuxb.in',
+                'siteUrl'=>'http://getrti/index.php',
 	),
 );
