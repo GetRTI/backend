@@ -24,8 +24,7 @@ class ApiController extends Controller
         switch ($_GET['model']){
             case 'files':
                 // check the file is pdf or an image
-                $file = CUploadedFile::getInstance($_POST, 'file');
-                $this->_sendResponse(200, "hello");
+                $this->_sendResponse(200, var_dump($_FILES['file']['type']));
         }
     }
     

@@ -2103,3 +2103,283 @@ in /var/www/getrti/protected/controllers/ApitestController.php (24)
 2014/01/06 21:02:23 [trace] [system.CModule] Loading "assetManager" application component
 in /var/www/getrti/protected/controllers/ApitestController.php (24)
 in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:38 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:38 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:38 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:38 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/apitest/index.php (15)
+in /var/www/getrti/protected/controllers/ApitestController.php (22)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:38 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/apitest/index.php (23)
+in /var/www/getrti/protected/controllers/ApitestController.php (22)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:38 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/apitest/index.php (48)
+in /var/www/getrti/protected/controllers/ApitestController.php (22)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:38 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (22)
+2014/01/06 22:31:38 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/ApitestController.php (22)
+2014/01/06 22:31:38 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/ApitestController.php (22)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:43 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:43 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:43 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:57 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:57 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:31:57 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:32:35 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:32:35 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:32:35 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:34:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:34:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:34:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:34:07 [error] [php] Trying to get property of non-object (/var/www/getrti/protected/controllers/ApiController.php:28)
+Stack trace:
+#0 /var/www/getrti/Yii/web/CController.php(286): ApiController->runAction()
+#1 /var/www/getrti/Yii/web/CController.php(265): ApiController->runActionWithFilters()
+#2 /var/www/getrti/Yii/web/CWebApplication.php(282): ApiController->run()
+#3 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#4 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#5 /var/www/getrti/www/index.php(18): CWebApplication->run()
+REQUEST_URI=/index.php/api/files
+in /var/www/getrti/protected/controllers/ApiController.php (28)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:34:07 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/getrti/protected/controllers/ApiController.php (28)
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:35:15 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:35:15 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:35:15 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:35:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:35:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:35:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:36:06 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:36:06 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:36:06 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:26 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:26 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:26 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:31 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:31 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:31 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:37 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:37 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:37 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "files".' in /var/www/getrti/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/getrti/Yii/web/CController.php(270): CController->missingAction('files')
+#1 /var/www/getrti/Yii/web/CWebApplication.php(282): CController->run('files')
+#2 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/files')
+#3 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/api/files/1
+---
+2014/01/06 22:37:37 [trace] [system.CModule] Loading "errorHandler" application component
+2014/01/06 22:37:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:37:37 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:37:37 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:37:37 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:37:41 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:41 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:41 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:46 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:46 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:46 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:46 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:37:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "files".' in /var/www/getrti/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/getrti/Yii/web/CController.php(270): CController->missingAction('files')
+#1 /var/www/getrti/Yii/web/CWebApplication.php(282): CController->run('files')
+#2 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/files')
+#3 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/api/files/1
+---
+2014/01/06 22:37:46 [trace] [system.CModule] Loading "errorHandler" application component
+2014/01/06 22:37:46 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:37:46 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:37:46 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:37:46 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:39:36 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:39:36 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:39:36 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:39:36 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:39:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "files".' in /var/www/getrti/Yii/web/CController.php:483
+Stack trace:
+#0 /var/www/getrti/Yii/web/CController.php(270): CController->missingAction('files')
+#1 /var/www/getrti/Yii/web/CWebApplication.php(282): CController->run('files')
+#2 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/files')
+#3 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#4 /var/www/getrti/www/index.php(18): CApplication->run()
+#5 {main}
+REQUEST_URI=/index.php/api/files
+---
+2014/01/06 22:39:36 [trace] [system.CModule] Loading "errorHandler" application component
+2014/01/06 22:39:36 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:39:36 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:39:36 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:39:36 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/06 22:39:46 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:39:46 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:39:46 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:40:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:40:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:40:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:40:32 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:40:32 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:40:32 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:46:37 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:46:37 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:46:37 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:49:47 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:49:47 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:49:47 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:52:21 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:52:21 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:52:21 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:54:19 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:54:19 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:54:19 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 22:54:19 [error] [exception.Exception] exception 'Exception' with message 'String could not be parsed as XML' in /var/www/getrti/protected/controllers/ApiController.php:27
+Stack trace:
+#0 /var/www/getrti/protected/controllers/ApiController.php(27): SimpleXMLElement->__construct('')
+#1 /var/www/getrti/Yii/web/actions/CInlineAction.php(49): ApiController->actionCreate()
+#2 /var/www/getrti/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /var/www/getrti/Yii/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /var/www/getrti/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /var/www/getrti/Yii/web/CWebApplication.php(282): CController->run('create')
+#6 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController('api/create')
+#7 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#8 /var/www/getrti/www/index.php(18): CApplication->run()
+#9 {main}
+REQUEST_URI=/index.php/api/files
+---
+2014/01/06 22:54:19 [trace] [system.CModule] Loading "errorHandler" application component
+2014/01/06 23:03:16 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 23:03:16 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 23:03:16 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 23:03:57 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 23:03:57 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 23:03:57 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 23:05:05 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 23:05:05 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/06 23:05:05 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
