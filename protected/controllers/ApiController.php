@@ -23,8 +23,25 @@ class ApiController extends Controller
     {
         switch ($_GET['model']){
             case 'files':
-                // check the file is pdf or an image
-                $this->_sendResponse(200, var_dump($_FILES['file']['type']));
+                //upload the file to tmp directory
+                $uploaddir = 'tmp/';
+                $uploadfile = $uploaddir . basename($_FILES['file']['name']);
+                move_uploaded_file($_FILES['file']['tmp_name'], $uploadfile);
+                // check the file mime type
+                $mime = CFileHelper::getMimeType($uploadfile);
+                if($mime=='image/png' || $mime=='image/jpeg' || $mime=='application/pdf'){
+                    // change file name and move to files directory
+                    $utilsObj = new Utils();
+                    $newfilename = $utilsObj->get_random_string('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', 16);
+                    $file = $newfilename.'.'.CFileHelper::getExtension($uploadfile);
+                    rename($uploadfile, 'files/'.$file);
+                    chmod('files/'.$file, 0755);
+                    $this->_sendResponse(200, 'Done');
+                }
+                else{
+                    $this->_sendResponse(405, 'File type not allowed '.$mime);
+                }
+            break;
         }
     }
     
@@ -120,6 +137,7 @@ class ApiController extends Controller
             402 => 'Payment Required',
             403 => 'Forbidden',
             404 => 'Not Found',
+            405 => 'File Type Not Allowed',
             500 => 'Internal Server Error',
             501 => 'Not Implemented',
         );
