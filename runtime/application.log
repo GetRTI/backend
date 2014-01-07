@@ -2600,3 +2600,24 @@ in /var/www/getrti/www/index.php (18)
 in /var/www/getrti/www/index.php (18)
 2014/01/07 14:19:10 [trace] [system.CModule] Loading "urlManager" application component
 in /var/www/getrti/www/index.php (18)
+2014/01/07 14:55:35 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/07 14:55:35 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/07 14:55:35 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/07 14:55:35 [error] [php] move_uploaded_file(tmp/CV- Solagna (1).pdf): failed to open stream: No such file or directory (/var/www/getrti/protected/controllers/ApiController.php:29)
+Stack trace:
+#0 /var/www/getrti/Yii/web/CController.php(308): CInlineAction->runWithParams()
+#1 /var/www/getrti/Yii/web/CController.php(286): ApiController->runAction()
+#2 /var/www/getrti/Yii/web/CController.php(265): ApiController->runActionWithFilters()
+#3 /var/www/getrti/Yii/web/CWebApplication.php(282): ApiController->run()
+#4 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController()
+#5 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#6 /var/www/getrti/www/index.php(18): CWebApplication->run()
+REQUEST_URI=/index.php/api/files
+in /var/www/getrti/protected/controllers/ApiController.php (29)
+in /var/www/getrti/www/index.php (18)
+2014/01/07 14:55:35 [trace] [system.CModule] Loading "errorHandler" application component
+in /var/www/getrti/protected/controllers/ApiController.php (29)
+in /var/www/getrti/www/index.php (18)
