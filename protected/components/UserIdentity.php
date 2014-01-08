@@ -34,7 +34,7 @@ class UserIdentity extends CUserIdentity
             {
                 $this->errorCode= self::ERROR_UNKNOWN_IDENTITY;
             }
-            elseif($user->password == md5 ($this->password))
+            elseif($t_hasher->CheckPassword($this->password, $user->password))
             {
                 $this->_id = $user->id;
                 $this->setState('username', $user->username);

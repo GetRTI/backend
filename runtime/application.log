@@ -6933,3 +6933,1926 @@ in /var/www/getrti/protected/controllers/SiteController.php (32)
 2014/01/08 15:22:39 [trace] [system.CModule] Loading "clientScript" application component
 in /var/www/getrti/protected/controllers/SiteController.php (32)
 in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:57 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:57 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:57 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:57 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:57 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:57 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:57 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (43)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:57 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/site/contact.php (14)
+in /var/www/getrti/protected/controllers/SiteController.php (72)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/site/contact.php (14)
+in /var/www/getrti/protected/controllers/SiteController.php (72)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/site/contact.php (34)
+in /var/www/getrti/protected/controllers/SiteController.php (72)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/site/contact.php (38)
+in /var/www/getrti/protected/controllers/SiteController.php (72)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/site/contact.php (68)
+in /var/www/getrti/protected/controllers/SiteController.php (72)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/SiteController.php (72)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:23:59 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/controllers/SiteController.php (109)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/controllers/SiteController.php (109)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (53)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:24:00 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.db.ar.CActiveRecord] Users.count()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 10
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:08 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/site/login.php (23)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/site/login.php (30)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/site/login.php (43)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+2014/01/08 15:24:10 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.db.ar.CActiveRecord] Users.findByAttributes()
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:24:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:24:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:24:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:24:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`username`=:yp0 LIMIT 1. Bound with :yp0='srvmdk'
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/models/LoginForm.php (43)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/models/LoginForm.php (43)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.db.ar.CActiveRecord] Users.findByAttributes()
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (60)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:24:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`username`=:yp0 LIMIT 1. Bound with :yp0='srvmdk'
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (60)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:12 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/getrti/Yii/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/getrti/Yii/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/getrti/Yii/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/getrti/Yii/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/getrti/Yii/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/getrti/Yii/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/getrti/Yii/web/CController.php(291): CFilterChain->run()
+#6 /var/www/getrti/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/getrti/Yii/web/CWebApplication.php(282): CController->run('admin')
+#8 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController('users/admin')
+#9 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/getrti/www/index.php(18): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php/users/admin
+HTTP_REFERER=http://getrti/index.php/site/login
+---
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "errorHandler" application component
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/08 15:24:12 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/08 15:24:31 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.db.ar.CActiveRecord] Users.count()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 10
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:31 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:34 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/_form.php (16)
+in /var/www/getrti/protected/views/users/create.php (18)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:24:34 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/_form.php (50)
+in /var/www/getrti/protected/views/users/create.php (18)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:24:34 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (43)
+in /var/www/getrti/protected/views/layouts/column2.php (22)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:24:37 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.db.ar.CActiveRecord] Users.count()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 10
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:37 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.db.ar.CActiveRecord] Users.findByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`id`='3' LIMIT 1
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:40 [trace] [system.CModule] Loading "format" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:44 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:44 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:44 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:44 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:44 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:44 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:44 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:44 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /var/www/getrti/Yii/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /var/www/getrti/Yii/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /var/www/getrti/Yii/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /var/www/getrti/Yii/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /var/www/getrti/Yii/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /var/www/getrti/Yii/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /var/www/getrti/Yii/web/CController.php(291): CFilterChain->run()
+#6 /var/www/getrti/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /var/www/getrti/Yii/web/CWebApplication.php(282): CController->run('delete')
+#8 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController('users/delete')
+#9 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#10 /var/www/getrti/www/index.php(18): CApplication->run()
+#11 {main}
+REQUEST_URI=/index.php/users/delete/3
+HTTP_REFERER=http://getrti/index.php/users/3
+---
+2014/01/08 15:24:44 [trace] [system.CModule] Loading "errorHandler" application component
+2014/01/08 15:24:44 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/08 15:24:44 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.db.ar.CActiveRecord] Users.findByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`id`='3' LIMIT 1
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:49 [trace] [system.CModule] Loading "format" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.db.ar.CActiveRecord] Users.count()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 10
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:54 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.db.ar.CActiveRecord] Users.findByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`id`='3' LIMIT 1
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:24:56 [trace] [system.CModule] Loading "format" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.db.ar.CActiveRecord] Users.findByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`id`='3' LIMIT 1
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:05 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/_form.php (16)
+in /var/www/getrti/protected/views/users/update.php (21)
+in /var/www/getrti/protected/controllers/UsersController.php (103)
+2014/01/08 15:25:05 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/_form.php (50)
+in /var/www/getrti/protected/views/users/update.php (21)
+in /var/www/getrti/protected/controllers/UsersController.php (103)
+2014/01/08 15:25:05 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (43)
+in /var/www/getrti/protected/views/layouts/column2.php (22)
+in /var/www/getrti/protected/controllers/UsersController.php (103)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.ar.CActiveRecord] Users.findByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`id`='3' LIMIT 1
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (89)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.ar.CActiveRecord] Users.update()
+in /var/www/getrti/protected/controllers/UsersController.php (97)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.ar.CActiveRecord] Users.updateByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (97)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.CDbCommand] Executing SQL: UPDATE `users` SET `id`=:yp0, `username`=:yp1, `password`=:yp2, `email`=:yp3, `role`=:yp4 WHERE `users`.`id`='3'. Bound with :yp0='3', :yp1='srvmdk', :yp2='$2a$08$CIJDQ24AgCQyp9lDaT8qweHAxhDtE7z4IG3PdWylZHH8/YoQ3OT.y', :yp3='saurav@linuxb.in', :yp4=1
+in /var/www/getrti/protected/controllers/UsersController.php (97)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.ar.CActiveRecord] Users.findByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`id`='3' LIMIT 1
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:25:07 [trace] [system.CModule] Loading "format" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:32 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/_form.php (16)
+in /var/www/getrti/protected/views/users/create.php (18)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:26:32 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/_form.php (50)
+in /var/www/getrti/protected/views/users/create.php (18)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:26:32 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (43)
+in /var/www/getrti/protected/views/layouts/column2.php (22)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:26:42 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/controllers/UsersController.php (73)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:42 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/_form.php (16)
+in /var/www/getrti/protected/views/users/create.php (18)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:26:42 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/_form.php (50)
+in /var/www/getrti/protected/views/users/create.php (18)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:26:53 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.db.ar.CActiveRecord] Users.insert()
+in /var/www/getrti/protected/controllers/UsersController.php (73)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `users` (`username`, `password`, `email`, `role`) VALUES (:yp0, :yp1, :yp2, :yp3). Bound with :yp0='admin', :yp1='$2a$08$YCFdV9EA1kjOPP5KJ6hNXuan4KovlmIaV2jq/dF5YgZQVJDvLIw9u', :yp2='saurav@linuxb.in', :yp3=1
+in /var/www/getrti/protected/controllers/UsersController.php (73)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/controllers/UsersController.php (73)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saurav@linuxb.in' for key 'email'. The SQL statement executed was: INSERT INTO `users` (`username`, `password`, `email`, `role`) VALUES (:yp0, :yp1, :yp2, :yp3). Bound with :yp0='admin', :yp1='$2a$08$YCFdV9EA1kjOPP5KJ6hNXuan4KovlmIaV2jq/dF5YgZQVJDvLIw9u', :yp2='saurav@linuxb.in', :yp3=1.
+in /var/www/getrti/protected/controllers/UsersController.php (73)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:26:53 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'saurav@linuxb.in' for key 'email'. The SQL statement executed was: INSERT INTO `users` (`username`, `password`, `email`, `role`) VALUES (:yp0, :yp1, :yp2, :yp3). Bound with :yp0='admin', :yp1='$2a$08$YCFdV9EA1kjOPP5KJ6hNXuan4KovlmIaV2jq/dF5YgZQVJDvLIw9u', :yp2='saurav@linuxb.in', :yp3=1' in /var/www/getrti/Yii/db/CDbCommand.php:358
+Stack trace:
+#0 /var/www/getrti/Yii/db/ar/CActiveRecord.php(1077): CDbCommand->execute()
+#1 /var/www/getrti/Yii/db/ar/CActiveRecord.php(806): CActiveRecord->insert(NULL)
+#2 /var/www/getrti/protected/controllers/UsersController.php(73): CActiveRecord->save()
+#3 /var/www/getrti/Yii/web/actions/CInlineAction.php(49): UsersController->actionCreate()
+#4 /var/www/getrti/Yii/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /var/www/getrti/Yii/web/filters/CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 /var/www/getrti/Yii/web/filters/CFilter.php(40): CFilterChain->run()
+#7 /var/www/getrti/Yii/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 /var/www/getrti/Yii/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 /var/www/getrti/Yii/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 /var/www/getrti/Yii/web/CController.php(291): CFilterChain->run()
+#11 /var/www/getrti/Yii/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 /var/www/getrti/Yii/web/CWebApplication.php(282): CController->run('create')
+#13 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController('users/create')
+#14 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#15 /var/www/getrti/www/index.php(18): CApplication->run()
+#16 {main}
+REQUEST_URI=/index.php/users/create
+HTTP_REFERER=http://getrti/index.php/users/create
+---
+2014/01/08 15:26:53 [trace] [system.CModule] Loading "errorHandler" application component
+2014/01/08 15:27:01 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:01 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:01 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:01 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:01 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:01 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:01 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:01 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:01 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:01 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/_form.php (16)
+in /var/www/getrti/protected/views/users/create.php (18)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:27:01 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/_form.php (50)
+in /var/www/getrti/protected/views/users/create.php (18)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:27:01 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (43)
+in /var/www/getrti/protected/views/layouts/column2.php (22)
+in /var/www/getrti/protected/controllers/UsersController.php (79)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (65)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.db.ar.CActiveRecord] Users.insert()
+in /var/www/getrti/protected/controllers/UsersController.php (73)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.db.CDbCommand] Executing SQL: INSERT INTO `users` (`username`, `password`, `email`, `role`) VALUES (:yp0, :yp1, :yp2, :yp3). Bound with :yp0='admin', :yp1='$2a$08$NtH8iznEzYoW79mGdZ9s/u6d9kh9WvLY3QkXqfY.8uZh7SNGeSIxe', :yp2='admin@admin.com', :yp3=1
+in /var/www/getrti/protected/controllers/UsersController.php (73)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.db.ar.CActiveRecord] Users.findByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`id`='5' LIMIT 1
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:14 [trace] [system.CModule] Loading "format" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/controllers/SiteController.php (109)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/controllers/SiteController.php (109)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (53)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:27:18 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/site/login.php (23)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:20 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/site/login.php (30)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:20 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/site/login.php (43)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:20 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+2014/01/08 15:27:20 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+2014/01/08 15:27:20 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:28 [trace] [system.db.ar.CActiveRecord] Users.findByAttributes()
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:27:28 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:27:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:27:28 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:27:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`username`=:yp0 LIMIT 1. Bound with :yp0='admin'
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/models/LoginForm.php (43)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/models/LoginForm.php (43)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:28 [trace] [system.db.ar.CActiveRecord] Users.findByAttributes()
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (60)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:27:28 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`username`=:yp0 LIMIT 1. Bound with :yp0='admin'
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (60)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (53)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:27:28 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.db.ar.CActiveRecord] Users.count()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 10
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:10 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/admin.php (15)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/_search.php (12)
+in /var/www/getrti/protected/views/users/admin.php (40)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+2014/01/08 15:32:12 [trace] [system.db.ar.CActiveRecord] Users.count()
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 10
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:12 [trace] [system.CModule] Loading "format" application component
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/controllers/SiteController.php (109)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/controllers/SiteController.php (109)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (53)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:32:20 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:24 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:24 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:24 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:24 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:24 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:32:24 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:32:24 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (53)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:32:24 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:28 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:28 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:28 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:28 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "favicon.ico".' in /var/www/getrti/Yii/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/getrti/Yii/web/CWebApplication.php(141): CWebApplication->runController('favicon.ico')
+#1 /var/www/getrti/Yii/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /var/www/getrti/www/index.php(18): CApplication->run()
+#3 {main}
+REQUEST_URI=/favicon.ico
+---
+2014/01/08 15:32:28 [trace] [system.CModule] Loading "errorHandler" application component
+2014/01/08 15:32:28 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/08 15:32:28 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/08 15:32:28 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/08 15:32:28 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (45)
+2014/01/08 15:32:30 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.db.ar.CActiveRecord] Users.count()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 10
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:30 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/site/login.php (23)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/site/login.php (30)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/site/login.php (43)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+2014/01/08 15:32:36 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/controllers/SiteController.php (101)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.db.ar.CActiveRecord] Users.findByAttributes()
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:32:46 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:32:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:32:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:32:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`username`=:yp0 LIMIT 1. Bound with :yp0='admin'
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (39)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/models/LoginForm.php (43)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/models/LoginForm.php (43)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.db.ar.CActiveRecord] Users.findByAttributes()
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (60)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:32:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`username`=:yp0 LIMIT 1. Bound with :yp0='admin'
+in /var/www/getrti/protected/components/UserIdentity.php (32)
+in /var/www/getrti/protected/models/LoginForm.php (60)
+in /var/www/getrti/protected/controllers/SiteController.php (94)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/admin.php (15)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/_search.php (12)
+in /var/www/getrti/protected/views/users/admin.php (40)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+2014/01/08 15:32:46 [trace] [system.db.ar.CActiveRecord] Users.count()
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 10
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:46 [trace] [system.CModule] Loading "format" application component
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.db.ar.CActiveRecord] Users.count()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 10
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:49 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/index.php (20)
+in /var/www/getrti/protected/controllers/UsersController.php (128)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.db.ar.CActiveRecord] Users.findByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`id`='3' LIMIT 1
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (55)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:52 [trace] [system.CModule] Loading "format" application component
+in /var/www/getrti/protected/views/users/view.php (30)
+in /var/www/getrti/protected/controllers/UsersController.php (56)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filterpostOnly()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.ar.CActiveRecord] Users.findByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (113)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (113)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (113)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (113)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (113)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` WHERE `t`.`id`='3' LIMIT 1
+in /var/www/getrti/protected/controllers/UsersController.php (155)
+in /var/www/getrti/protected/controllers/UsersController.php (113)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.ar.CActiveRecord] Users.delete()
+in /var/www/getrti/protected/controllers/UsersController.php (113)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.ar.CActiveRecord] Users.deleteByPk()
+in /var/www/getrti/protected/controllers/UsersController.php (113)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.CDbCommand] Executing SQL: DELETE FROM `users` WHERE `users`.`id`='3'
+in /var/www/getrti/protected/controllers/UsersController.php (113)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.web.filters.CFilterChain] Running filter UsersController.filteraccessControl()
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "db" application component
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.CDbConnection] Opening DB connection
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW FULL COLUMNS FROM `users`
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.CDbCommand] Querying SQL: SHOW CREATE TABLE `users`
+in /var/www/getrti/protected/controllers/UsersController.php (136)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/views/users/admin.php (15)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/users/_search.php (12)
+in /var/www/getrti/protected/views/users/admin.php (40)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+2014/01/08 15:32:55 [trace] [system.db.ar.CActiveRecord] Users.count()
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT COUNT(*) FROM `users` `t`
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.ar.CActiveRecord] Users.findAll()
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.db.CDbCommand] Querying SQL: SELECT * FROM `users` `t` LIMIT 10
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "assetManager" application component
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:32:55 [trace] [system.CModule] Loading "format" application component
+in /var/www/getrti/protected/views/users/admin.php (57)
+in /var/www/getrti/protected/controllers/UsersController.php (143)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/controllers/SiteController.php (109)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/controllers/SiteController.php (109)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "log" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "request" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "urlManager" application component
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "widgetFactory" application component
+in /var/www/getrti/protected/views/layouts/column1.php (2)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "user" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "session" application component
+in /var/www/getrti/protected/views/layouts/main.php (35)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "coreMessages" application component
+in /var/www/getrti/protected/views/layouts/main.php (53)
+in /var/www/getrti/protected/views/layouts/column1.php (6)
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+2014/01/08 15:33:39 [trace] [system.CModule] Loading "clientScript" application component
+in /var/www/getrti/protected/controllers/SiteController.php (32)
+in /var/www/getrti/www/index.php (18)
