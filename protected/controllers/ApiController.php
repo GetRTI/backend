@@ -42,6 +42,15 @@ class ApiController extends Controller
                     $this->_sendResponse(405, 'File type not allowed '.$mime);
                 }
             break;
+            case 'users':
+                $user = new Users;
+                $user->username = $_POST['username'];
+                $user->passwordSave = $_POST['password'];
+                $user->repeatPassword = $_POST['password'];
+                $user->email = $_POST['email'];
+                $user->role = 0;
+                $user->save();
+                $this->_sendResponse(200, 'Done');
         }
     }
     
