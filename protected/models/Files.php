@@ -12,12 +12,13 @@
  * @property string $address
  * @property string $date
  * @property string $slug
+ * @property integer $published
  * @property string $uploaded_by
  *
  * The followings are the available model relations:
  * @property FileToTags[] $fileToTags
- * @property Departments $department0
  * @property Users $uploadedBy
+ * @property Departments $department0
  */
 class Files extends CActiveRecord
 {
@@ -37,14 +38,14 @@ class Files extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('name, address, date, slug', 'required'),
-			array('department', 'numerical', 'integerOnly'=>true),
+			array('name, address, date, slug, published', 'required'),
+			array('department, published', 'numerical', 'integerOnly'=>true),
 			array('address, slug', 'length', 'max'=>400),
 			array('uploaded_by', 'length', 'max'=>20),
 			array('description, content', 'safe'),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('id, name, department, description, content, address, date, slug, uploaded_by', 'safe', 'on'=>'search'),
+			array('id, name, department, description, content, address, date, slug, published, uploaded_by', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -57,8 +58,8 @@ class Files extends CActiveRecord
 		// class name for the relations automatically generated below.
 		return array(
 			'fileToTags' => array(self::HAS_MANY, 'FileToTags', 'file'),
-			'department0' => array(self::BELONGS_TO, 'Departments', 'department'),
 			'uploadedBy' => array(self::BELONGS_TO, 'Users', 'uploaded_by'),
+			'department0' => array(self::BELONGS_TO, 'Departments', 'department'),
 		);
 	}
 
@@ -76,6 +77,7 @@ class Files extends CActiveRecord
 			'address' => 'Address',
 			'date' => 'Date',
 			'slug' => 'Slug',
+			'published' => 'Published',
 			'uploaded_by' => 'Uploaded By',
 		);
 	}
@@ -106,6 +108,7 @@ class Files extends CActiveRecord
 		$criteria->compare('address',$this->address,true);
 		$criteria->compare('date',$this->date,true);
 		$criteria->compare('slug',$this->slug,true);
+		$criteria->compare('published',$this->published);
 		$criteria->compare('uploaded_by',$this->uploaded_by,true);
 
 		return new CActiveDataProvider($this, array(

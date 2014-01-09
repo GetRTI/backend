@@ -38,6 +38,10 @@
 	<?php echo CHtml::encode($data->slug); ?>
 	<br />
 
+	<b><?php echo CHtml::encode($data->getAttributeLabel('published')); ?>:</b>
+	<?php echo CHtml::encode($data->published); ?>
+	<br />
+
 	<b><?php echo CHtml::encode($data->getAttributeLabel('uploaded_by')); ?>:</b>
 	<?php echo CHtml::encode($data->uploaded_by); ?>
 	<br />

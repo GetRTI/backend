@@ -29,6 +29,7 @@ $this->menu=array(
 		'address',
 		'date',
 		'slug',
+		'published',
 		'uploaded_by',
 	),
 )); ?>

@@ -62,6 +62,12 @@
 	</div>
 
 	<div class="row">
+		<?php echo $form->labelEx($model,'published'); ?>
+		<?php echo $form->textField($model,'published'); ?>
+		<?php echo $form->error($model,'published'); ?>
+	</div>
+
+	<div class="row">
 		<?php echo $form->labelEx($model,'uploaded_by'); ?>
 		<?php echo $form->textField($model,'uploaded_by',array('size'=>20,'maxlength'=>20)); ?>
 		<?php echo $form->error($model,'uploaded_by'); ?>

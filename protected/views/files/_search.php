@@ -52,6 +52,11 @@
 	</div>
 
 	<div class="row">
+		<?php echo $form->label($model,'published'); ?>
+		<?php echo $form->textField($model,'published'); ?>
+	</div>
+
+	<div class="row">
 		<?php echo $form->label($model,'uploaded_by'); ?>
 		<?php echo $form->textField($model,'uploaded_by',array('size'=>20,'maxlength'=>20)); ?>
 	</div>
