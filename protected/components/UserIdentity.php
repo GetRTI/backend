@@ -21,7 +21,8 @@ class UserIdentity extends CUserIdentity
   * @return boolean whether authentication succeeds.
   */
         private $_id;
-        private $_username;
+        private $_user;
+        
         public function getId()
         {
            return $this->_id;
@@ -29,16 +30,15 @@ class UserIdentity extends CUserIdentity
         public function authenticate()
         {
             $t_hasher = new PasswordHash(8, FALSE);
-            $user= Users::model()->findByAttributes(array('username'=>  $this->username));
-            if($user === null)
+            $_user= Users::model()->findByAttributes(array('username'=>  $this->username));
+            if($_user === null)
             {
                 $this->errorCode= self::ERROR_UNKNOWN_IDENTITY;
             }
-            elseif($t_hasher->CheckPassword($this->password, $user->password))
+            elseif($t_hasher->CheckPassword($this->password, $_user->password))
             {
-                $this->_id = $user->id;
-                $this->setState('username', $user->username);
-                $this->setState('role', $user->role);
+                $this->_id = $_user->id;
+                $this->setState('username', $_user->username);
                 $this->errorCode= self::ERROR_NONE;
                  
             }
@@ -48,6 +48,9 @@ class UserIdentity extends CUserIdentity
             }
             return !$this->errorCode;
                  
+        }
+        public function isAdmin(){
+            return $_user->role;
         }
         
 }
