@@ -23,13 +23,17 @@ class ApiController extends Controller
             case 'files':
                 // validate the request
                 if(!(isset($_POST['name']) && isset($_FILES['file']))){
-                    $this->_sendResponse(406, 'Incomplete Request');
+                    $response = array(
+                        'error'=>'Incomplete Request',
+                    );
+                    $this->_sendResponse(200, json_encode($response));
+                    Yii::app()->end();
                 }
                 else{
+                    $this->_addFile();
+                    /*
                     //upload the file to tmp directory
-                    $uploaddir = '../tmp/';
-                    $uploadfile = $uploaddir . basename($_FILES['file']['name']);
-                    move_uploaded_file($_FILES['file']['tmp_name'], $uploadfile);
+                    
                     // check the file mime type
                     $mime = CFileHelper::getMimeType($uploadfile);
                     if($mime=='image/png' || $mime=='image/jpeg' || $mime=='application/pdf'){
@@ -39,6 +43,7 @@ class ApiController extends Controller
                         $file = $newfilename.'.'.CFileHelper::getExtension($uploadfile);
                         rename($uploadfile, 'files/'.$file);
                         chmod('files/'.$file, 0755);
+                        
                         // add the file info to database
                         $files = new Files;
                         $files->name = $_POST['name'];
@@ -56,7 +61,8 @@ class ApiController extends Controller
                         $files->published = FALSE;
                         $files->uploaded_by = NULL;
                         $fileSaved = $files->save();
-                        $fileID = Files::model()->findByAttributes(array('slug'=>$slug));
+                        
+                     * $fileID = Files::model()->findByAttributes(array('slug'=>$slug));
                         if(isset($_POST['tags'])){
                             $arrTags = str_getcsv($_POST['tags']);
                             foreach($arrTags as $tag){
@@ -80,11 +86,14 @@ class ApiController extends Controller
                         else{
                             $this->_sendResponse(407, 'Error in save to database');
                         }
+                     
                     }
                     else{
                         $this->_sendResponse(405, 'File type not allowed '.$mime);
                         unlink($uploadfile);
                     }
+                     * 
+                     */
                     
                 }
             break;
@@ -201,4 +210,68 @@ class ApiController extends Controller
         return (isset($codes[$status])) ? $codes[$status] : '';
     }
     
+    private function _addFile(){
+        // move the file to a tmp directory
+        $tmpDirfile = '../tmp/'. basename($_FILES['file']['name']);
+        move_uploaded_file($_FILES['file']['tmp_name'], $tmpDirfile);
+        
+        // check the mime type
+        $mime = CFileHelper::getMimeType($tmpDirfile);
+        if(($mime=='image/png' || $mime=='image/jpeg' || $mime=='application/pdf')==FALSE){        
+            $response = array(
+                'error'=>'File mime type not allowed',
+            );
+            $this->_sendResponse(200, json_encode($response));
+            unlink($tmpDirfile);
+            Yii::app()->end();
+        }
+        
+        // move to uploads dir and change the file name
+        $utilsObj = new Utils();
+        $uploadDirFile = 'files/'.$utilsObj->get_random_string('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', 16).".".CFileHelper::getExtension($tmpDirfile);
+        rename($tmpDirfile, $uploadDirFile);
+        
+        // add the file to db
+        $files = new Files;
+        $files->name = $_POST['name'];
+        $files->department = NULL;
+        if(isset($_POST['description'])){
+            $files->description = $_POST['description'];
+        }
+        else {
+            $files->description = NULL;
+        }
+        $files->content = NULL;
+        $files->address = $uploadDirFile;
+        $files->date = new CDbExpression('NOW()');
+        $files->slug = $slug = Utils::slugify($_POST['name']).'-'.$utilsObj->get_random_string('0123456789', 5);
+        $files->published = 0;
+        $files->uploaded_by = NULL;
+        $files->save();
+        
+        // add tags
+        $fileID = Files::model()->findByAttributes(array('slug'=>$slug));
+        if(isset($_POST['tags'])){
+            $arrTags = str_getcsv($_POST['tags']);
+            foreach($arrTags as $tag){
+                $tagID = Tags::model()->findByAttributes(array('tag'=>  $tag));
+                    // if its a new tag
+                    if($tagID==NULL){
+                        $newTag = new Tags;
+                        $newTag->tag = $tag;
+                        $newTag->save();
+                    }
+                    $tagID = Tags::model()->findByAttributes(array('tag'=>  $tag));                                 
+                    $filesToTag = new FileToTags;
+                    $filesToTag->file = $fileID->id;
+                    $filesToTag->tag = $tagID->id;
+                    $filesToTag->Save();
+            }
+        }
+        $response = array(
+            'fileID'=>$fileID->id,
+            'slug'=>$fileID->slug,
+        );
+        $this->_sendResponse(200, json_encode($response));
+    }
 }
