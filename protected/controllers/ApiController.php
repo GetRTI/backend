@@ -31,71 +31,7 @@ class ApiController extends Controller
                 }
                 else{
                     $this->_addFile();
-                    /*
-                    //upload the file to tmp directory
-                    
-                    // check the file mime type
-                    $mime = CFileHelper::getMimeType($uploadfile);
-                    if($mime=='image/png' || $mime=='image/jpeg' || $mime=='application/pdf'){
-                        // change file name and move to files directory
-                        $utilsObj = new Utils();
-                        $newfilename = $utilsObj->get_random_string('abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ', 16);
-                        $file = $newfilename.'.'.CFileHelper::getExtension($uploadfile);
-                        rename($uploadfile, 'files/'.$file);
-                        chmod('files/'.$file, 0755);
-                        
-                        // add the file info to database
-                        $files = new Files;
-                        $files->name = $_POST['name'];
-                        $files->department = NULL;
-                        if(isset($_POST['description'])){
-                            $files->description = $_POST['description'];
-                        }
-                        else {
-                            $files->description = NULL;
-                        }
-                        $files->content = NULL;
-                        $files->address = $file;
-                        $files->date = new CDbExpression('NOW()');
-                        $files->slug = $slug = Utils::slugify($_POST['name']).'-'.$utilsObj->get_random_string('0123456789', 5);
-                        $files->published = FALSE;
-                        $files->uploaded_by = NULL;
-                        $fileSaved = $files->save();
-                        
-                     * $fileID = Files::model()->findByAttributes(array('slug'=>$slug));
-                        if(isset($_POST['tags'])){
-                            $arrTags = str_getcsv($_POST['tags']);
-                            foreach($arrTags as $tag){
-                                $tagDb = Tags::model()->findByAttributes(array('tag'=>  $tag));
-                                // if its a new tag
-                                if($tagDb==NULL){
-                                    $newTag = new Tags;
-                                    $newTag->tag = $tag;
-                                    $newTag->save();
-                                }
-                                $tagDb = Tags::model()->findByAttributes(array('tag'=>  $tag));                                 
-                                $filesToTag = new FileToTags;
-                                $filesToTag->file = $fileID->id;
-                                $filesToTag->tag = $tagDb->id;
-                                $filesToTag->Save();
-                            }
-                        }
-                        if($fileSaved){
-                            $this->_sendResponse(200, 'OK');
-                        }
-                        else{
-                            $this->_sendResponse(407, 'Error in save to database');
-                        }
-                     
                     }
-                    else{
-                        $this->_sendResponse(405, 'File type not allowed '.$mime);
-                        unlink($uploadfile);
-                    }
-                     * 
-                     */
-                    
-                }
             break;
             case 'users':
                 $user = new Users;
