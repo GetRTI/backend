@@ -20,7 +20,7 @@ Send the POST request to (http://www.getrti.org/api/files) with the following $_
 
    - name - file name
    - file - the file, should be pdf, jpg or png
-   - tags - comma separated list of tags
+   - tags - comma separated list of tags (optional)
 
 Example response:
 
