@@ -9,7 +9,24 @@ class ApiController extends Controller
     
     public function actionList()
     {
-        $this->_sendResponse(200, 'List action called');
+        switch ($_GET['model']){
+            case 'files':
+                $files = Files::model()->findAll();
+                if(empty($files)){
+                    $response = array(
+                        'error'=>'No Files Found',
+                    );
+                    $this->_sendResponse(200, CJSON::encode($response));
+                }
+                else {
+                    $response = array();
+                    foreach ($files as $file){
+                        $response[] = $file->attributes;
+                    }
+                    $this->_sendResponse(200, CJSON::encode($response));
+                }
+            break;
+        }
     }
     
     public function actionView()
@@ -26,22 +43,13 @@ class ApiController extends Controller
                     $response = array(
                         'error'=>'Incomplete Request',
                     );
-                    $this->_sendResponse(200, json_encode($response));
+                    $this->_sendResponse(200, CJSON::encode($response));
                     Yii::app()->end();
                 }
                 else{
                     $this->_addFile();
                     }
             break;
-            case 'users':
-                $user = new Users;
-                $user->username = $_POST['username'];
-                $user->passwordSave = $_POST['password'];
-                $user->repeatPassword = $_POST['password'];
-                $user->email = $_POST['email'];
-                $user->role = 0;
-                $user->save();
-                $this->_sendResponse(200, 'Done');
         }
     }
     
@@ -208,6 +216,7 @@ class ApiController extends Controller
             'fileID'=>$fileID->id,
             'slug'=>$fileID->slug,
         );
+        
         $this->_sendResponse(200, json_encode($response));
     }
 }
