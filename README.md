@@ -49,6 +49,40 @@ Either name or file is missing
 ```
 File mime type is not allowed
 
+### GET files
+
+Send a GET request to (http://www.getrti.org/api/files) to get a list of files
+
+Example response:
+```
+[
+    {
+        "id":"4",
+        "name":"test file",
+        "department":null,
+        "description":null,
+        "content":null,
+        "address":"files\/zyQFNJurOstQuFcL.pdf",
+        "date":"2014-01-10 15:02:18",
+        "slug":"test-file-90112",
+        "published":"0",
+        "uploaded_by":null
+    },
+    {
+        "id":"5",
+        "name":"test file",
+        "department":null,
+        "description":null,
+        "content":null,
+        "address":"files\/akCTrRRDAMvEQbfA.pdf",
+        "date":"2014-01-10 15:05:59",
+        "slug":"test-file-20278",
+        "published":"0",
+        "uploaded_by":null
+    }
+]
+```
+
 # Attributions
 
 
