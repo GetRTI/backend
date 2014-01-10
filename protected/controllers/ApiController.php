@@ -22,6 +22,13 @@ class ApiController extends Controller
                     $response = array();
                     foreach ($files as $file){
                         $response[] = $file->attributes;
+                        /*
+                        $fileTags = FileToTags::model()->findAllByAttributes(array('file'=>$file->id));
+                        $tags = array();
+                        foreach($fileTags as $fileTag){
+                            $response['tags'][] = $fileTag->tag0->tag;
+                        }
+                        */
                     }
                     $this->_sendResponse(200, CJSON::encode($response));
                 }
